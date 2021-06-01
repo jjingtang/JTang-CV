@@ -14,10 +14,11 @@ organizations:
   url: https://www.uts.edu.au/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include HCI, AR/VR, Sports Science, and AI.
 
 # Interests to show in About widget
 interests:
+- Human-Computer Interaction
 - AR/VR
 - Sports Science
 - Artificial Intelligence
@@ -70,7 +71,7 @@ email: "jingjing.tang-1@student.uts.edu.au"
 highlight_name: false
 ---
 
-Jingjing Tang is a current full-time student in University of Canberra. Her research interests include AR/VR area, Human-Computer Interaction in gaming, and sports science. Her current research are:
+Jingjing Tang is a current full-time student in University of Canberra. Her research interests include AR/VR area, Human-Computer Interaction in gaming, and sports science. Her current researches are:
 
 👩🏻‍💻 Creating interactive systems for construction by intergrating AR and CNN
 
