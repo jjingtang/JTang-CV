@@ -42,7 +42,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: mailto:taroinn@gmail.com
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/GeorgeCushen
@@ -51,7 +51,7 @@ social:
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/jjingtang
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/
@@ -59,12 +59,12 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
+ - icon: cv
+   icon_pack: ai
+   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "jingjing.tang-1@student.uts.edu.au"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
