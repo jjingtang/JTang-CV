@@ -71,8 +71,11 @@ highlight_name: false
 ---
 
 Jingjing Tang is a current full-time student in University of Canberra. Her research interests include AR/VR area, Human-Computer Interaction in gaming, and sports science. Her current research are:
+
 👩🏻‍💻 Creating interactive systems for construction by intergrating AR and CNN
+
 ⚽ Estiablish a system for acquiring sports data for further investigate
+
 🎮 A* algorithm.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
