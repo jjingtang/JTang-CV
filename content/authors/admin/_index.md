@@ -25,10 +25,10 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: Master of Information Technology
+  - course: Master of IT
     institution: University of Canberra
     year: 2021
-  - course: BSc in Interaction Design (Hons)
+  - course: BSc in IT (Hons)
     institution: University of Technology Sydney
     year: 2020
   - course: BSc in Interaction Design
@@ -70,7 +70,10 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Jingjing Tang is a current full-time student in University of Canberra. Her research interests include AR/VR area, Human-Computer Interaction in gaming, and sports science. Her current research are:
+👩🏻‍💻 Creating interactive systems for construction by intergrating AR and CNN
+⚽ Estiablish a system for acquiring sports data for further investigate
+🎮 A* algorithm.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
