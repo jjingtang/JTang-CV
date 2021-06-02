@@ -24,26 +24,23 @@ feature:
   icon: java
   icon_pack: fab
   name: Programming
-<<<<<<< HEAD
-# - description: 30%
- # icon: raspberry-pi
- # icon_pack: fab
- # name: Robotics
-# - description: 80%
-#  icon: photo-video
-#  icon_pack: fas
-#  name: Digital Media
+ - description: 30%
+  icon: raspberry-pi
+  icon_pack: fab
+  name: Robotics
+ - description: 80%
+  icon: photo-video
+  icon_pack: fas
+  name: Digital Media
 - description: 100%
     icon: futbol
     icon_pack: fas
     name: Football
-=======
 - description: 80%
   icon: photo-video
   icon_pack: fab
   name: Digital Media
->>>>>>> parent of 5fbe6b3 (skill spell correction)
-
+  
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
