@@ -26,7 +26,7 @@ feature:
   name: Programming
 - description: 80%
   icon: photo-video
-  icon_pack: fab
+  icon_pack: fas
   name: Digital Media
 
 # Uncomment to use emoji icons.
