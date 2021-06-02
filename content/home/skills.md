@@ -7,7 +7,7 @@ widget: featurette
 headless: true
 
 # Order that this section appears on the page.
-weight: 50
+weight: 30
 
 title: Skills
 subtitle:
@@ -24,10 +24,10 @@ feature:
   icon: java
   icon_pack: fab
   name: Programming
-- description: 30%
-  icon: raspberry-pi
-  icon_pack: fab
-  name: Robotics
+# - description: 30%
+ # icon: raspberry-pi
+ # icon_pack: fab
+ # name: Robotics
 # - description: 80%
 #  icon: photo-video
 #  icon_pack: fas
