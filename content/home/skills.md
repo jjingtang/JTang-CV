@@ -36,10 +36,10 @@ feature:
   icon: futbol
   icon_pack: fas
   name: Football
-- description: 80%
-  icon: photo-video
-  icon_pack: fab
-  name: Digital Media
+- description: 100%
+  icon: handshake
+  icon_pack: fas
+  name: Communication
   
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
