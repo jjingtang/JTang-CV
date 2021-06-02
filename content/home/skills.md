@@ -20,14 +20,14 @@ feature:
   icon: unity
   icon_pack: fab
   name: Unity
-- description: 100%
-  icon: chart-line
-  icon_pack: fas
-  name: Statistics
-- description: 10%
-  icon: camera-retro
-  icon_pack: fas
-  name: Photography
+- description: 50%
+  icon: java
+  icon_pack: fab
+  name: Programming
+- description: 80%
+  icon: photo-video
+  icon_pack: fab
+  name: Digital Media
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
