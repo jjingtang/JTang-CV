@@ -44,18 +44,18 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:taroinn@gmail.com
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+# - icon: twitter
+# icon_pack: fab
+#  link: https://twitter.com/GeorgeCushen
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://www.myequals.net/sharelink/95f1323c-ed9d-4992-b498-c304d7a28e42/182831cc-1851-488c-af85-fef501d39ad6
 - icon: github
   icon_pack: fab
   link: https://github.com/jjingtang
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
+# - icon: linkedin
+# icon_pack: fab
+# link: https://www.linkedin.com/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
