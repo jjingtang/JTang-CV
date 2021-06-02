@@ -33,9 +33,9 @@ feature:
   icon_pack: fas
   name: Digital Media
 - description: 100%
-    icon: futbol
-    icon_pack: fas
-    name: Football
+  icon: futbol
+  icon_pack: fas
+  name: Football
 - description: 80%
   icon: photo-video
   icon_pack: fab
