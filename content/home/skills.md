@@ -17,7 +17,7 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: 70%
-  icon: fa-unity
+  icon: unity
   icon_pack: fab
   name: Unity
 - description: 100%
