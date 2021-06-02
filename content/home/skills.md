@@ -25,17 +25,17 @@ feature:
   icon_pack: fab
   name: Programming
 - description: 30%
-   icon: raspberry-pi
-   icon_pack: fab
-   name: Robotics
+    icon: raspberry-pi
+    icon_pack: fab
+    name: Robotics
 - description: 80%
   icon: photo-video
   icon_pack: fas
   name: Digital Media
 - description: 100%
-  icon: futbol
-  icon_pack: fas
-  name: Football
+    icon: futbol
+    icon_pack: fas
+    name: Football
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
