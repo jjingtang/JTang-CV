@@ -24,11 +24,11 @@ feature:
   icon: java
   icon_pack: fab
   name: Programming
- - description: 30%
+- description: 30%
   icon: raspberry-pi
   icon_pack: fab
   name: Robotics
- - description: 80%
+- description: 80%
   icon: photo-video
   icon_pack: fas
   name: Digital Media
