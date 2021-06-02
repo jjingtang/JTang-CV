@@ -75,7 +75,7 @@ Jingjing Tang is a current full-time student in University of Canberra. Her rese
 
 👩🏻‍💻 Create an interactive application for construction by intergrating AR and CNN
 
-⚽ Establish a system for acquiring sports data for further investigate
+⚽ Establish a system for acquiring sports data for further investigation
 
 🎮 A* algorithm
 
