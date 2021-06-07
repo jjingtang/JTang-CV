@@ -36,14 +36,14 @@ experience:
         * Company name 2
         * Company name 3
  
- - title: IT Support
-   company: Jiangyin
-   company_url: ''
-   company_logo: org-x
-   location: Jiangyin, China
-   date_start: '2015-07-01'
-   date_end: '2017-12-31'
-   description: I organised and maintained databases, resolving IT issues, monitoring staffs' unusual activities.
+  - title: IT Support
+    company: Jiangyin
+    company_url: ''
+    company_logo: org-x
+    location: Jiangyin, China
+    date_start: '2015-07-01'
+    date_end: '2017-12-31'
+    description: I organised and maintained databases, resolving IT issues, monitoring staffs' unusual activities.
  
   - title: Assistant Football Coach
     company: Great Star
