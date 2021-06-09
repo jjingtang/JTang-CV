@@ -56,7 +56,7 @@ experience:
     company_logo: org-x
     location: Sydney, Australia
     date_start: '2020-07-01'
-    date_end: '2021-4-30'
+    date_end: '2021-04-30'
     description: I coached junior kids football, assisted with match coaching and training.
 
 design:
