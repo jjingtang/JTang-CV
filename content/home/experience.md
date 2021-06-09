@@ -30,11 +30,11 @@ experience:
     date_start: '2020-01-01'
     date_end: ''
     description: |2-
-        I help customers build their business websites, include:
+        I help people customise their websites, include but not limited to:
         
-        * Company name 1
-        * Company name 2
-        * Company name 3
+        * Personal Website like Portfolio
+        * Personal Blog or Podcast
+        * Small Business Website
  
   - title: IT Support
     company: Jiangyin
@@ -48,7 +48,7 @@ experience:
         
         * organise and maintaine databases,
         * resolve IT issues,
-        * monitoring staffs' unusual activities.
+        * monitor staffs' unusual activities.
  
   - title: Assistant Football Coach
     company: Great Star
