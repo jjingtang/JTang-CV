@@ -43,15 +43,20 @@ experience:
     location: Jiangyin, China
     date_start: '2015-07-01'
     date_end: '2017-12-31'
-    description: I organised and maintained databases, resolving IT issues, monitoring staffs' unusual activities.
+    description: |2-
+        I was responsible for:
+        
+        * organise and maintaine databases,
+        * resolve IT issues,
+        * monitoring staffs' unusual activities.
  
   - title: Assistant Football Coach
     company: Great Star
     company_url: ''
     company_logo: org-x
     location: Sydney, Australia
-    date_start: '2020-01-01'
-    date_end: '2020-12-31'
+    date_start: '2020-07-01'
+    date_end: '2021-4-30'
     description: I coached junior kids football, assisted with match coaching and training.
 
 design:
