@@ -43,13 +43,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:taroinn@gmail.com
+  link: mailto:u3229475@uni.canberra.edu.au
 # - icon: twitter
 # icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://www.myequals.net/sharelink/95f1323c-ed9d-4992-b498-c304d7a28e42/182831cc-1851-488c-af85-fef501d39ad6
+  link: https://orcid.org/0000-0002-1977-663X
 - icon: github
   icon_pack: fab
   link: https://github.com/jjingtang
