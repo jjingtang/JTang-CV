@@ -6,7 +6,7 @@ title: Jingjing Tang
 superuser: true
 
 # Role/position/tagline
-role: Master of IT in Data Science
+role: Master of Information Technology
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,21 +14,21 @@ organizations:
   url: https://www.uts.edu.au/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include HCI, AR/VR, Sports Science, and AI.
+bio: My research interests include HCI, AR/VR, Data Visualisation, and AI.
 
 # Interests to show in About widget
 interests:
 - Human-Computer Interaction
 - AR/VR
-- Sports Science
+- Data Visualisation
 - Artificial Intelligence
 
 # Education to show in About widget
 education:
   courses:
-  - course: Master of IT
+  - course: Master of Data Science
     institution: University of Canberra
-    year: 2021
+    year: Current
   - course: BSc in IT (Hons)
     institution: University of Technology Sydney
     year: 2020
@@ -71,13 +71,13 @@ email: "jingjing.tang-1@student.uts.edu.au"
 highlight_name: false
 ---
 
-Jingjing Tang is a current full-time student in University of Canberra. Her research interests include AR/VR area, Human-Computer Interaction in gaming, and sports science. Her current researches are:
+Jingjing Tang is a current full-time student in University of Canberra. Her research interests include Human-Computer Interaction, AR/VR, and data visualisation specifically in sports science. Her projects include:
 
-👩🏻‍💻 Create an interactive application for construction by intergrating AR and CNN
+📝 An interactive application for construction by intergrating AR and CNN
 
-⚽ Establish a system for acquiring sports data for further investigation
+👩🏻‍🔬 Chemistry laboratory and experiments in 3D Virtual Reality world
 
-🎮 A* algorithm
+🗣️ Virtual Reality Exposure Therapy on Public Speaking
 
 
 {{< icon name="download" pack="fas" >}} More details are in my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
