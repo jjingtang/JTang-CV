@@ -77,7 +77,7 @@ Jingjing Tang (汤婧菁) is a current full-time student in University of Canber
 
 👩🏻‍🔬 Chemistry laboratory and experiments in 3D Virtual Reality world
 
-🗣️ Virtual Reality Exposure Therapy on Public Speaking
+🗣️ A Virtual Reality Exposure Therapy application on Public Speaking
 
 
 {{< icon name="download" pack="fas" >}} More details are in the {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

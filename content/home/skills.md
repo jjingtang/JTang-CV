@@ -19,15 +19,15 @@ feature:
 - description: 70%
   icon: unity
   icon_pack: fab
-  name: Unity
+  name: Game Development
 - description: 80%
   icon: java
   icon_pack: fab
-  name: Programming
-- description: 30%
-  icon: raspberry-pi
+  name: Software Development  
+- description: 80%
+  icon: python
   icon_pack: fab
-  name: Robotics
+  name: Data Analysis
 - description: 80%
   icon: photo-video
   icon_pack: fas
