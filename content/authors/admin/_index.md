@@ -71,7 +71,7 @@ email: "jingjing.tang-1@student.uts.edu.au"
 highlight_name: false
 ---
 
-Jingjing Tang is a current full-time student in University of Canberra. Her research interests include Human-Computer Interaction, AR/VR, and data visualisation specifically in sports science. Her projects include:
+Jingjing Tang (汤婧菁) is a current full-time student in University of Canberra. Her research interests include Human-Computer Interaction, AR/VR, and data visualisation specifically in sports science. Her projects include:
 
 📝 An interactive application for construction by intergrating AR and CNN
 
@@ -80,4 +80,4 @@ Jingjing Tang is a current full-time student in University of Canberra. Her rese
 🗣️ Virtual Reality Exposure Therapy on Public Speaking
 
 
-{{< icon name="download" pack="fas" >}} More details are in my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} More details are in the {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
