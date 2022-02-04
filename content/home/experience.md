@@ -37,14 +37,14 @@ experience:
         * Small Business Website
  
   - title: IT Support
-    company: Jiangyin
+    company: Jiangyin National Hi-tech Industrial Development Zone
     company_url: ''
     company_logo: org-x
     location: Jiangyin, China
     date_start: '2015-07-01'
     date_end: '2017-12-31'
     description: |2-
-        I was responsible for:
+        I worked in the department of management as a summer contractor. I was responsible for:
         
         * organise and maintaine databases,
         * resolve IT issues,
