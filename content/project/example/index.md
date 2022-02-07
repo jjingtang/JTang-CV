@@ -9,7 +9,7 @@ date: "2020-11-13T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Screenshot within this VRET project
   focal_point: Smart
 
 links:
