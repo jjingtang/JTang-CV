@@ -1,6 +1,6 @@
 ---
-title: Virtual Reality Exposure Therapy (VRET) for the treatement of public speaking anxiety 
-summary: A virtual reality exposure therapy project with rich interactions designed for treating public speaking anxiety using Human-centered design methodology.
+title: Virtual Reality (VR) Chemisty Lab 
+summary: A virtual reality system designed for chemisty education purpose to create a risk free lab environment.
 tags:
 - VR
 date: "2020-11-13T00:00:00Z"
