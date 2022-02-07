@@ -30,7 +30,7 @@ experience:
     date_start: '2022-01-11'
     date_end: ''
     description: |2-
-        I help ~20+ customers customise their IT related projects & websites, include but not limited to:
+        I helped ~20+ clients customise their IT related projects & websites, include but not limited to:
         
         * Customised Gaming Room in VRChat and other purpose
         * Personal Websites, Portfolio like this one

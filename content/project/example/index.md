@@ -36,4 +36,4 @@ Additionally, research suggests cognitive behaviour therapy (CBT) is commonly us
 
 Meanwhile, Virtual Reality (VR) technology as a tool shows high valuable potential combining with exposure therapy for treating public speaking anxiety. VR blocks the users from what they saw in real life and replaces it with experience in a computer-generated three-dimensional (3D) world. Instead of imaging a classroom with a few students listening to the presentation, the user can actually move around within the computer-generated virtual classroom, see and interact with the virtual audiences. The participants would practice presentations in this classroom to manage the anxiety and stress level while the avatars would play a significant role to deliver the exposure therapy training and provide the (phobic) stimulus (Koller et al., 2019). 
 
-This study delivered a VRET application made via Unity. Read full paper on : https://docs.google.com/document/d/1itwYhcazM8-O9oruzeQ-CrqAcQMOc70RoqOyeIuaQew/edit
+This study delivered a VRET application made via Unity. Read full paper on : https://drive.google.com/file/d/1tm6-bW6ozgRr6p_Ox0bF_02LgPAajTDW/view?usp=sharing
