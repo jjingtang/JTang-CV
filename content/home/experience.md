@@ -22,19 +22,20 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Web Designer
+  - title: Developer
     company: Freelance
     company_url: ''
     company_logo: org-gc
     location: Home
-    date_start: '2020-01-01'
+    date_start: '2022-01-11'
     date_end: ''
     description: |2-
-        I help people customise their websites, include but not limited to:
+        I help ~20+ customers customise their IT related projects & websites, include but not limited to:
         
-        * Personal Website like Portfolio
+        * Customised Gaming Room in VRChat and other purpose
+        * Personal Websites, Portfolio like this one
         * Personal Blog or Podcast
-        * Small Business Website
+
  
   - title: IT Support
     company: Jiangyin National Hi-tech Industrial Development Zone
@@ -50,14 +51,14 @@ experience:
         * Resolved IT issues for ~500+ employees,
         * Accomplished 99% assigned tasks for different offices.
  
-  - title: Assistant Football Coach
-    company: Great Star
-    company_url: ''
-    company_logo: org-x
-    location: Sydney, Australia
-    date_start: '2020-07-01'
-    date_end: '2021-04-30'
-    description: I coached junior kids football, assisted with match coaching and training.
+#  - title: Assistant Football Coach
+#    company: Great Star
+#    company_url: ''
+#    company_logo: org-x
+#    location: Sydney, Australia
+#    date_start: '2020-07-01'
+#    date_end: '2021-04-30'
+#    description: I coached junior kids football, assisted with match coaching and training.
 
 design:
   columns: '2'
