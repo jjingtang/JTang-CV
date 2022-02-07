@@ -41,14 +41,14 @@ experience:
     company_url: ''
     company_logo: org-x
     location: Jiangyin, China
-    date_start: '2015-07-01'
-    date_end: '2017-12-31'
+    date_start: '2014-07-01'
+    date_end: '2016-08-31'
     description: |2-
-        I worked in the department of management as a summer contractor. I was responsible for:
+        I worked in the department of management as a long-term summer intern. I was responsible for:
         
-        * organise and maintaine databases,
-        * resolve IT issues,
-        * monitor staffs' unusual activities.
+        * Maintained databases for archives management office,
+        * Resolved IT issues for ~500+ employees,
+        * Accomplished 99% assigned tasks for different offices.
  
   - title: Assistant Football Coach
     company: Great Star
