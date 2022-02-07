@@ -5,8 +5,8 @@ tags:
 - VR
 date: "2020-11-13T00:00:00Z"
 
-# Optional external URL for project (replaces project detail page).
-external_link: "https://docs.google.com/document/d/1itwYhcazM8-O9oruzeQ-CrqAcQMOc70RoqOyeIuaQew/edit"
+# Optional external URL for project (replaces project detail page). 外链直接到paper
+external_link: ""
 
 image:
   caption: Photo by rawpixel on Unsplash
