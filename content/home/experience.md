@@ -38,13 +38,13 @@ experience:
  
   - title: IT Support
     company: Jiangyin National Hi-tech Industrial Development Zone
-    company_url: ''
-    company_logo: org-x
+    company_url: 'http://joind.investchn.com/'
+    company_logo: job-2
     location: Jiangyin, China
-    date_start: '2014-07-01'
-    date_end: '2016-08-31'
+    date_start: '2013-07-01'
+    date_end: '2016-01-31'
     description: |2-
-        I worked in the department of management as a long-term summer intern. I was responsible for:
+        I worked in the department of management as a long-term summer/winter holiday intern. I was responsible for:
         
         * Maintained databases for archives management office,
         * Resolved IT issues for ~500+ employees,
