@@ -25,7 +25,7 @@ experience:
   - title: Developer
     company: Freelance
     company_url: ''
-    company_logo: org-gc
+    company_logo: org-x
     location: Home
     date_start: '2022-01-11'
     date_end: ''
