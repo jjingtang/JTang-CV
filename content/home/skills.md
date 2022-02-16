@@ -16,15 +16,15 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 70%
+- description: 85%
   icon: unity
   icon_pack: fab
   name: Game Development
-- description: 80%
+- description: 65%
   icon: java
   icon_pack: fab
   name: Software Development  
-- description: 80%
+- description: 75%
   icon: python
   icon_pack: fab
   name: Data Analysis
