@@ -56,8 +56,8 @@ experience:
     company_url: ''
     company_logo: 
     location: Sydney, Australia
-    date_start: '2020-07-01'
-    date_end: '2020-07-01'
+    date_start: '2020-03-21'
+    date_end: '2020-04-19'
     description: 
         I was a volunteer for packing and delivering the covid-19 health pack. I was responsible for all the health kits in Ryde area. I helped packing over 30 boxes of supplies, contacted and delivered to all the Chinese students in Ryde area.
  
