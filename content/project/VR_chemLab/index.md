@@ -32,6 +32,6 @@ slides: example
 
 The pandemic has changed individuals‘ lifestyle. To adopt a world-wide lockdown, the traditional ways of face-to-face working and learning has imperceptibly changed. However, university has kept laboratory open during the pandemic for scholars to contiune studying. It seems unsafe in this high-tect modern world. 
 
-Meanwhile, virtual reality (VR) 是什么什么，为什么对这个有帮助
+Meanwhile, virtual reality (VR) could provide an immersed experience for educational purpose. VR programs can be accessed without geographical limitations, which could be a highly potential solution to this particular issue. 
 
-This study delivered a Virtual Reality chemisty lab system made by Unity. 
+This study shall delivere a Virtual Reality chemisty lab system made by Unity. 
