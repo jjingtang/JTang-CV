@@ -54,7 +54,7 @@ experience:
   - title: Volunteer
     company: China Embassy in Australia
     company_url: ''
-    company_logo: 
+    company_logo: volunteer
     location: Sydney, Australia
     date_start: '2020-03-21'
     date_end: '2020-04-19'
