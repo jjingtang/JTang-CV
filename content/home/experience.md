@@ -46,7 +46,7 @@ experience:
         * Design and development of two 3D game scenes with complex storytelling
         * Coded an intuitive game menu via Unity and Visual Studio
         * Organised client interviews and meetings to ensure alignment with client expectations
-        * Co-filmed and edited game demo video to stakeholders
+        * Co-filmed and edited a game demo video to stakeholders
 
  
   - title: IT Support
