@@ -10,28 +10,28 @@ role: Master of Data Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of Technology Sydney
-  url: https://www.uts.edu.au/
+- name: University of Canberra
+  url: #
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include HCI, AR/VR, Data Visualisation, and AI.
+bio: My research interests include HCI, AR/VR, Data Visualisation, and ML.
 
 # Interests to show in About widget
 interests:
 - Human-Computer Interaction
 - AR/VR
 - Data Visualisation
-- Artificial Intelligence
+- Machine Learning
 
 # Education to show in About widget
 education:
   courses:
   - course: Master of Data Science
     institution: University of Canberra
-    year: Current
+    year: 2023
   - course: BSc in IT (Hons)
     institution: University of Technology Sydney
-    year: 2020
+    year: 2021
   - course: BSc in Interaction Design
     institution: University of Technology Sydney
     year: 2019
@@ -65,19 +65,21 @@ social:
  #  link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "jingjing.tang-1@student.uts.edu.au"
+email: "jessiejingjingtang@gmail.com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
 
-Jingjing Tang (汤婧菁) is a current full-time student in University of Canberra. Her research interests include Human-Computer Interaction, AR/VR, and data visualisation specifically in sports science. Her projects include:
+Jingjing Tang (汤婧菁) is a professional game developer, an amateur footballer and recently completed the master's degree to become a Data Analyst. Her research interests include Human-Computer Interaction, AR/VR, data visualisation, and sports science. Her projects include:
 
 📝 An interactive application for construction by intergrating AR and CNN
 
-👩🏻‍🔬 Chemistry laboratory and experiments in 3D Virtual Reality world
-
 🗣️ A Virtual Reality Exposure Therapy application on Public Speaking
+
+⚽️ A virtual home for women's football news in Chinese (woso-news.com)
+
+
 
 
 {{< icon name="download" pack="fas" >}} More details are in the {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
