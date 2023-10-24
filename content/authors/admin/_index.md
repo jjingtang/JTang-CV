@@ -34,6 +34,7 @@ education:
     year: 2021
   - course: BSc in Information Technology
     institution: University of Technology Sydney
+    major: Interaction Design
     year: 2019
 
 # Social/Academic Networking
