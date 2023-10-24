@@ -32,7 +32,7 @@ education:
   - course: BSc in IT (Hons)
     institution: University of Technology Sydney
     year: 2021
-  - course: BSc in Interaction Design
+  - course: BSc in Information Technology
     institution: University of Technology Sydney
     year: 2019
 
@@ -43,7 +43,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:u3229475@uni.canberra.edu.au
+  link: mailto:jessiejingjingtang@gmail.com
 # - icon: twitter
 # icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
