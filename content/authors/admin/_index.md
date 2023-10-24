@@ -82,4 +82,4 @@ Jingjing Tang (汤婧菁) is a professional game developer, an amateur footballe
 
 
 
-{{< icon name="download" pack="fas" >}} More details are in the {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} More details are in the {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
