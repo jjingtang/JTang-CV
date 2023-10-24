@@ -22,19 +22,31 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Developer
-    company: Freelance
+
+  - title: Women's World Cup Volunteer
+    company: FIFA
+    company_url: 'https://www.fifa.com/fifaplus/en/tournaments/womens/womensworldcup/australia-new-zealand2023'
+    company_logo: volunteer
+    location: Sydney, Australia
+    date_start: '2023-07-20'
+    date_end: '2023-08-20'
+    description: 
+        I offered unparalleled support to millions of spectators, including the World Cup final. I also worked as an assistant football player for testing the VAR equipments before the tournament. I demonstrated exceptional teamwork and communication skills in a diverse working environment, and contributing to the success of one of the most famous sporting events. 
+
+  - title: Game Developer (Contract)
+    company: Aoqihuike (Shenzhen) Computer Technology Co. Ltd
     company_url: ''
     company_logo: org-x
-    location: Home
-    date_start: '2022-01-11'
-    date_end: ''
+    location: Remote
+    date_start: '2021-02-11'
+    date_end: '2021-12-24'
     description: |2-
-        I helped ~20+ clients customise their IT related projects & websites, include but not limited to:
+        I contributed to:
         
-        * Customised Gaming Room in VRChat and other purpose
-        * Personal Websites, Portfolio like this one
-        * Personal Blog or Podcast
+        * Design and development of two 3D game scenes with complex storytelling
+        * Coded an intuitive game menu via Unity and Visual Studio
+        * Organised client interviews and meetings to ensure alignment with client expectations
+        * Co-filmed and edited game demo video to stakeholders
 
  
   - title: IT Support
@@ -51,15 +63,15 @@ experience:
         * Resolved IT issues for ~500+ employees,
         * Accomplished 99% assigned tasks for different offices.
 
-  - title: Volunteer
-    company: China Embassy in Australia
-    company_url: ''
-    company_logo: volunteer
-    location: Sydney, Australia
-    date_start: '2020-03-21'
-    date_end: '2020-04-19'
-    description: 
-        I was a volunteer for packing and delivering the covid-19 health pack. I was responsible for all the health kits in Ryde area. I helped packing over 30 boxes of supplies, contacted and delivered to all the Chinese students in Ryde area.
+#  - title: Volunteer
+#    company: China Embassy in Australia
+#    company_url: ''
+#    company_logo: volunteer
+#    location: Sydney, Australia
+#    date_start: '2020-03-21'
+#    date_end: '2020-04-19'
+#    description: 
+#        I was a volunteer for packing and delivering the covid-19 health pack. I was responsible for #all the health kits in Ryde area. I helped packing over 30 boxes of supplies, contacted and #delivered to all the Chinese students in Ryde area.
  
  
 #  - title: Assistant Football Coach
