@@ -18,7 +18,7 @@ links:
 #  name: Follow
 #  url: https://twitter.com/georgecushen
 url_code: ""
-url_pdf: "https://drive.google.com/file/d/1tm6-bW6ozgRr6p_Ox0bF_02LgPAajTDW/view?usp=sharing"
+url_pdf: ""
 url_slides: ""
 url_video: ""
 
@@ -31,7 +31,7 @@ url_video: ""
 slides: ""
 ---
 
-Overview:
+**Overview:**
 
 The award-winning project, CONNECT, emerged victorious at the recent hackathon event, showcasing its innovative approach to addressing communication challenges at Canberra Hospital. This groundbreaking VR application aims to enhance collaboration and information flow among hospital staff, incorporating valuable insights from both Canberra Hospital professionals and teaching experts from the University of Canberra.
 
