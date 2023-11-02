@@ -27,7 +27,7 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides: ""
 ---
 
 **Overview:**
@@ -56,4 +56,4 @@ The success of CONNECT was evident as it clinched the 1st place at the hackathon
 
 The CONNECT team's dedication to understanding the unique needs of the hospital staff, combined with their expertise in virtual reality technology, positions CONNECT as a promising solution with the potential to revolutionise communication and training in healthcare institutions.
 
-{{< figure src="team-photo.jpg" caption="Team Photo of CONNECT" numbered="true" >}}
+# {{< figure src="team-photo.jpg" caption="Team Photo of CONNECT" numbered="true" >}}
