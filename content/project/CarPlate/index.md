@@ -1,6 +1,6 @@
 ---
 title: Vehicle Number Plate Auto Detection Model
-summary: This project includes 3 models: Logistic Regression, Support Vector Machine for Classification, and Convolution Neural Network. The SVC model achieved a remarkable 98% accuracy on the training set. 
+summary: This project includes 3 models —— Logistic Regression, Support Vector Machine for Classification (SVC), and Convolution Neural Network (CNN). The SVC model achieved a remarkable 98% accuracy on the training set. 
 tags:
 - Machine Learning
 date: "2020-11-13T00:00:00Z"
