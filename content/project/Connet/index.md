@@ -15,7 +15,7 @@ image:
 links:
 - icon: twitter
   icon_pack: fab
-  name: #UCanHack
+  name: \#UCanHack
   url: https://twitter.com/hashtag/UCanHack?src=hashtag_click
 url_code: ""
 url_pdf: ""
