@@ -15,9 +15,9 @@ image:
 links:
 - icon: twitter
   icon_pack: fab
-  name: \char"0023 UCanHack
+  name: #UCanHack
   url: https://twitter.com/hashtag/UCanHack?src=hashtag_click
-- icon: file-certificate
+- icon: award
   icon_pack: fas
   name: Certificate
   url: 
