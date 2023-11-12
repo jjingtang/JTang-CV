@@ -36,9 +36,9 @@ publication_short: In *Hindawi*
 abstract: It aims to improve the degree of visualization of building data, ensure the ability of intelligent detection, and effectively solve the problems encountered in building data processing. Convolutional neural network and augmented reality technology are adopted, and a building visualization model based on convolutional neural network and augmented reality is proposed. The performance of the proposed algorithm is further confirmed by performance verification on public datasets. It is found that the building target detection model based on convolutional neural network and augmented reality has obvious advantages in algorithm complexity and recognition accuracy. It is 25 percent more accurate than the latest model. The model can make full use of mobile computing resources, avoid network delay and dependence, and guarantee the real-time requirement of data processing. Moreover, the model can also well realize the augmented reality navigation and interaction effect of buildings in outdoor scenes. To sum up, this study provides a research idea for the identification, data processing, and intelligent detection of urban buildings.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: This study introduces a building visualization model, combining convolutional neural network and augmented reality, achieving 25% higher accuracy than the latest model. The approach ensures real-time processing, leveraging mobile computing resources for urban building identification and intelligent detection.
 
-tags: []
+tags: AR, Data Visualisation
 
 # Display this page in the Featured widget?
 featured: true
@@ -70,7 +70,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- example
+- []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
