@@ -38,7 +38,7 @@ abstract: It aims to improve the degree of visualization of building data, ensur
 # Summary. An optional shortened abstract.
 summary: This study introduces a building visualization model, combining convolutional neural network and augmented reality, achieving 25% higher accuracy than the latest model. The approach ensures real-time processing, leveraging mobile computing resources for urban building identification and intelligent detection.
 
-tags: AR, Data Visualisation
+tags: Data Visualisation
 
 # Display this page in the Featured widget?
 featured: true
@@ -46,7 +46,7 @@ featured: true
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
-#   url: http://example.org
+#   url: https://www.hindawi.com/journals/complexity/2021/5161111/
 
 url_pdf: 'https://www.hindawi.com/journals/complexity/2021/5161111/'
 url_code: ''
@@ -60,7 +60,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: ''
   focal_point: ""
   preview_only: false
 
@@ -80,12 +80,12 @@ projects:
 slides: ""
 ---
 
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
+#{{% callout note %}}
+#Click the *Cite* button above to demo the feature to enable visitors to import publication metadata #into their reference management software.
+#{{% /callout %}}
 
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
+#{{% callout note %}}
+#Create your slides in Markdown - click the *Slides* button to check out the example.
+#{{% /callout %}}
 
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+#Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/#writing-markdown-latex/).
