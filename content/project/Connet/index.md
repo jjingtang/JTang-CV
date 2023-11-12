@@ -20,7 +20,7 @@ links:
 - icon: award
   icon_pack: fas
   name: Certificate
-  url: 
+  url: https://drive.google.com/file/d/1wgpgJGPiNhWHg3-iXCvjewI_SN0nmFeQ/view?usp=drive_link
 url_code: ""
 url_pdf: ""
 url_slides: ""

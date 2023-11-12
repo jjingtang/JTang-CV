@@ -1,35 +1,39 @@
 ---
-title: "An example conference paper"
+title: "Adoption of Convolutional Neural Network Algorithm Combined with Augmented Reality in Building Data Visualization and Intelligent Detection"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
+- Minghui Wei
 - admin
-- Robert Ford
+- Haotian Tang
+- Rui Zhao
+- Xiaohui Gai
+- Renying Lin
 
 # Author notes (optional)
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
+#author_notes:
+#- "Main contribution"
+#- "Equal contribution"
 
-date: "2013-07-01T00:00:00Z"
-doi: ""
+date: "2021-06-29T00:00:00Z"
+doi: "10.1155/2021/5161111"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2021-06-09T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: In *Hindawi*
+publication_short: In *Hindawi*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: It aims to improve the degree of visualization of building data, ensure the ability of intelligent detection, and effectively solve the problems encountered in building data processing. Convolutional neural network and augmented reality technology are adopted, and a building visualization model based on convolutional neural network and augmented reality is proposed. The performance of the proposed algorithm is further confirmed by performance verification on public datasets. It is found that the building target detection model based on convolutional neural network and augmented reality has obvious advantages in algorithm complexity and recognition accuracy. It is 25 percent more accurate than the latest model. The model can make full use of mobile computing resources, avoid network delay and dependence, and guarantee the real-time requirement of data processing. Moreover, the model can also well realize the augmented reality navigation and interaction effect of buildings in outdoor scenes. To sum up, this study provides a research idea for the identification, data processing, and intelligent detection of urban buildings.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -44,7 +48,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://www.hindawi.com/journals/complexity/2021/5161111/'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -73,7 +77,7 @@ projects:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---
 
 {{% callout note %}}
