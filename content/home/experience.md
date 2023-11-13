@@ -59,9 +59,9 @@ experience:
     description: |2-
         I worked in the department of management as a long-term summer/winter holiday intern. I was responsible for:
         
-        * Maintained databases for archives management office,
-        * Resolved IT issues for ~500+ employees,
-        * Accomplished 99% assigned tasks for different offices.
+        * Maintained databases for archives management office via SQL,
+        * Resolved IT related issues for ~500+ employees,
+        * Digitalise over 100 documents daily in multiple languages.
 
 #  - title: Volunteer
 #    company: China Embassy in Australia
