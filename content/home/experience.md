@@ -34,7 +34,7 @@ experience:
         I was responsible for:
         
         * Designing and developing a responsive web application via React & Tailwind CSS
-        * Configuring and managing the company emails using Zoho Business Emails service.
+        * Configuring and managing the company emails using Zoho Business Emails service
         * Applying SEO strategies to improve company’s search engine ranking on Google
         * Scheduling regular meetings with stakeholders, identified requirements and developed iterations through feedback.
 
@@ -74,9 +74,9 @@ experience:
     description: |2-
         I worked in the department of management as a long-term summer/winter holiday intern. I was responsible for:
         
-        * Maintained databases for archives management office via SQL,
-        * Resolved IT related issues for ~500+ employees,
-        * Digitalise over 100 documents daily in multiple languages.
+        * Maintained databases for archives management office via SQL
+        * Resolved IT related issues for ~500+ employees
+        * Digitalise over 100 documents daily in multiple languages
 
 #  - title: Volunteer
 #    company: China Embassy in Australia
