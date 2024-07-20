@@ -73,13 +73,12 @@ highlight_name: false
 
 Jingjing Tang (汤婧菁) is a professional web developer, an amateur footballer, and a recent graduate with a Master's degree in Data Science. Her expertise spans game development, data analysis, and web application design. Her research interests include Human-Computer Interaction, AR/VR, data visualization, and sports science. Her projects include:
 
-🌾 A responsive web application for Farm Fresh International using React and Tailwind CSS
+🌾 A responsive web application for Farm Fresh International LTD
 
 📝 An interactive application for construction by intergrating AR and CNN
 
 🗣️ A Virtual Reality Exposure Therapy application on Public Speaking
 
-⚽️ A virtual home for women's football news in Chinese (woso-news.com)
 
 
 
