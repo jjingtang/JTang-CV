@@ -53,9 +53,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/jjingtang
-# - icon: linkedin
-# icon_pack: fab
-# link: https://www.linkedin.com/
+ - icon: linkedin
+ icon_pack: fab
+ link: https://www.linkedin.com/in/jingjing-tang-78138b29b/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -71,7 +71,9 @@ email: "jessiejingjingtang@gmail.com"
 highlight_name: false
 ---
 
-Jingjing Tang (汤婧菁) is a professional game developer, an amateur footballer and recently completed the master's degree to become a Data Analyst. Her research interests include Human-Computer Interaction, AR/VR, data visualisation, and sports science. Her projects include:
+Jingjing Tang (汤婧菁) is a professional web developer, an amateur footballer, and a recent graduate with a Master's degree in Data Science. Her expertise spans game development, data analysis, and web application design. Her research interests include Human-Computer Interaction, AR/VR, data visualization, and sports science. Her projects include:
+
+🌾 A responsive web application for Farm Fresh International using React and Tailwind CSS
 
 📝 An interactive application for construction by intergrating AR and CNN
 

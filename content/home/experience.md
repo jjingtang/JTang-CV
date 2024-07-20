@@ -23,6 +23,21 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
 
+  - title: Web Developer
+    company: Farm Fresh Internation LTD
+    company_url: 'https://farmfreshltd.com/'
+    company_logo: farmfresh
+    location: Remote
+    date_start: '2024-01-20'
+    date_end: ''
+    description: |2-
+        I was responsible for:
+        
+        * Designing and developing a responsive web application via React & Tailwind CSS
+        * Configuring and managing the company emails using Zoho Business Emails service.
+        * Applying SEO strategies to improve company’s search engine ranking on Google
+        * Scheduling regular meetings with stakeholders, identified requirements and developed iterations through feedback.
+
   - title: Women's World Cup Volunteer
     company: FIFA
     company_url: 'https://www.fifa.com/fifaplus/en/tournaments/womens/womensworldcup/australia-new-zealand2023'
