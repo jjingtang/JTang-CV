@@ -55,7 +55,7 @@ social:
   link: https://github.com/jjingtang
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/jingjing-tang-78138b29b/
+  link: https://www.linkedin.com/in/jessiejingjingtang/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
